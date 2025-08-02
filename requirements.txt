@@ -1,0 +1,16 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+requests==2.31.0
+pymongo==4.7.2
+pandas==2.1.4
+numpy==1.26.4
+scipy==1.11.4
+scikit-learn==1.4.2
+joblib==1.4.2
+tensorflow==2.16.1
+xgboost==2.0.3
+lightgbm==4.3.0
+tsfresh==0.20.2
+river==0.18.0
+optuna==3.6.1
+shap==0.45.1
